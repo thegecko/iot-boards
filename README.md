@@ -42,12 +42,13 @@ Board | Cost | CPU | Flash | RAM | BLE | WiFi | Language
 
 ## No connectivity (honourable mentions)
 
-Board | Cost | CPU | Flash | RAM | BLE | WiFi | Language
---- | --- | --- | --- | --- | --- | --- | ---
-[Pi Zero](https://www.raspberrypi.org/products/pi-zero/) | £5 | 1GHz A6 | - | 512MB | - | - | Node.js
-| | | | | | | | KinomaJS
-[MicroPython](https://micropython.org/) | £19 | 96MHz M4 | 512kB | 128kB | - | - | MicroPython
-[Pico](http://www.espruino.com/Pico) | £22 | 84Mhz M4 | 384kB | 96kB | - | - | Espruino
-[Espruino](http://www.espruino.com/EspruinoBoard) | £25 | 72MHz M3 | 256kB | 48kB | - | - | Espruino
-[STM32F411](http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32f4-series.html) | £10 | 100MHz M4 | 256kB | 128kB | - | - | Espruino
-| | | | | | | | JerryScript
+Board | Cost | CPU | Flash | RAM | Language
+--- | --- | --- | --- | --- | ---
+[Pi Zero](https://www.raspberrypi.org/products/pi-zero/) | £5 | 1GHz A6 | - | 512MB | Node.js
+| | | | | | KinomaJS
+[quark](https://www.intel.com/content/www/us/en/embedded/products/quark/mcu/d2000/overview.html) | $15 | 32MHz intel | 32kB | 8kB | JerryScript
+[MicroPython](https://micropython.org/) | £19 | 96MHz M4 | 512kB | 128kB | MicroPython
+[Pico](http://www.espruino.com/Pico) | £22 | 84Mhz M4 | 384kB | 96kB | Espruino
+[Espruino](http://www.espruino.com/EspruinoBoard) | £25 | 72MHz M3 | 256kB | 48kB | Espruino
+[STM32F411](http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32f4-series.html) | £10 | 100MHz M4 | 256kB | 128kB | Espruino
+| | | | | | JerryScript
